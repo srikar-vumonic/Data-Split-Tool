@@ -2,3 +2,7 @@ Pillow
 pycaret
 streamlit
 streamlit-option-menu
+numpy
+pandas
+pyxlsb
+zipfile
