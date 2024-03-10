@@ -1,0 +1,4 @@
+Pillow
+pycaret
+streamlit
+streamlit-option-menu
